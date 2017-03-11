@@ -1,4 +1,33 @@
 # Why not Open Scence?
 
-## Problem:
-Academia is resistant to adopting open science practices. Why? Is it really because we are afraid of being scooped? Or is it because we don’t know how to and we luck proper infrastructure? 
+Welcome! We are a community of scientists who want to see open science practices incorporated in every researcher's lab workflow. 
+
+## What is Open Science? 
+text
+
+## The problem
+
+Despite the growing evidence that open-research practices benefit discovery and individual careers, many academics hesitate to fully embrace open science in their research routines. Why? Is it the fear of being “scooped”? Is it the lack of peer pressure and institutional rewards? Or, is it a lack of time and knowledge about open-science practices and how to adopt and adapt them to their own work? 
+
+Based on our experience as researchers, and open-science advocates, we believe that the main restrictions are a lack of time, the fear that open science will entail thankless extra effort, and a fundamental lack of knowledge about open science tools.
+
+## Our solution
+
+1) Listen: We believe that scientific inquiry should avoid erroneous preconceptions or assumptions about a problem. Therefore our first step We will be to develop a survey to explore the underlying reasons for failure to adopt open-science practices in academia. 
+The survey will seek to:
+      a) Understand researchers’ knowledge of and engagement with OS practices; 
+      b) Learn about obstacles that prevent them from engaging in OS practices; 
+      c) Ask what would incentivize them to adopt OS practices.
+
+2) Develop:
+
+3) Educate and advocate:
+
+We will develop a survey to explore the underlying reasons for failure to adopt open-science practices in academia. The survey will seek to:
+
+1) Understand researchers’ knowledge of and engagement with OS practices; 
+2) Learn about obstacles that prevent them from engaging in OS practices; 
+3) Ask what would incentivize them to adopt OS practices.
+
+First we will test the survey in our home institutions, but our goal is to distribute the survey to other academic institutions across the globe.
+
