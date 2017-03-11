@@ -18,16 +18,19 @@ Based on our experience as researchers and open-science advocates, we believe th
 
 * Listen: We believe that scientific inquiry should avoid erroneous preconceptions or assumptions about a problem. Therefore our first step We will be to develop a survey to explore the underlying reasons for failure to adopt open-science practices in academia. Initially we will test the survey in our home institutions, but our goal is to distribute the survey to other academic institutions across the globe.
 
-The survey will seek to:
-      * Understand researchers’ knowledge of and engagement with OS practices; 
-      * Learn about obstacles that prevent them from engaging in OS practices; 
-      * Ask what would incentivize them to adopt OS practices.
+     The survey will seek to:
+             * Understand researchers’ knowledge of and engagement with OS practices; 
+             * Learn about obstacles that prevent them from engaging in OS practices; 
+             * Ask what would incentivize them to adopt OS practices.
 
 * Develop:
 
 * Educate and advocate:
 
 ## Who are we, anyway?
+About Daniela: I am a Ph.D. candidate in the Neuroscience Graduate Program at OHSU. I am passionate about research and making data available to everyone to advance knowledge and improve transparency. 
+
+About Amie: I am a Ph.D. candidate at the Max Planck Institute for Psycholinguistics, based in Nijmegen, The Netherlands.
 
 
 
