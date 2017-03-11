@@ -13,15 +13,15 @@ Based on our experience as researchers, and open-science advocates, we believe t
 
 ## Our solution
 
-1) Listen: We believe that scientific inquiry should avoid erroneous preconceptions or assumptions about a problem. Therefore our first step We will be to develop a survey to explore the underlying reasons for failure to adopt open-science practices in academia. 
+* Listen: We believe that scientific inquiry should avoid erroneous preconceptions or assumptions about a problem. Therefore our first step We will be to develop a survey to explore the underlying reasons for failure to adopt open-science practices in academia. 
 The survey will seek to:
-      a) Understand researchers’ knowledge of and engagement with OS practices; 
-      b) Learn about obstacles that prevent them from engaging in OS practices; 
-      c) Ask what would incentivize them to adopt OS practices.
+      ** Understand researchers’ knowledge of and engagement with OS practices; 
+      ** Learn about obstacles that prevent them from engaging in OS practices; 
+      ** Ask what would incentivize them to adopt OS practices.
 
-2) Develop:
+* Develop:
 
-3) Educate and advocate:
+* Educate and advocate:
 
 We will develop a survey to explore the underlying reasons for failure to adopt open-science practices in academia. The survey will seek to:
 
