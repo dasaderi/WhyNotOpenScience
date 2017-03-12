@@ -1,2 +1,2 @@
-# Code of conduct 
+# Code of Conduct 
 coming soon
