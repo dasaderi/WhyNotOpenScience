@@ -1,6 +1,6 @@
 ### Why not Open Scence?
 
-Welcome! We are a community of scientists who want to see open science practices incorporated in every researcher's lab workflow. 
+Welcome! We are scientists who want to see open science practices incorporated in every researcher's lab workflow. 
 
 #### What is Open Science? 
 Open is the way science should be! ||summary of what open science is. Links.
