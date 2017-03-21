@@ -41,9 +41,8 @@ Below are broad goals of the project with more specific aims under each heading.
 
 ##### Existing material:
 - Innovations in scholarly communication (information, survey and data): https://101innovations.wordpress.com/
-- wellcome trust survey
- - for the survey data and questions (downloadable): http://reshare.ukdataservice.ac.uk/852494/
- - for the report: https://figshare.com/articles/Survey_of_Wellcome_researchers_and_their_attitudes_to_open_research/4055448
+- Wellcome Trust survey data and questions (downloadable): http://reshare.ukdataservice.ac.uk/852494/
+- Wellcome Trust report: https://figshare.com/articles/Survey_of_Wellcome_researchers_and_their_attitudes_to_open_research/4055448
 - other surveys? Find relevant information
 
 #### 
