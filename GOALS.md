@@ -23,6 +23,7 @@ Below are broad goals of the project with more specific aims under each heading.
 - Upload post-prints to a repository
 - Blog
 - Science communication
+- online thesis writing (see Achintya Rao: https://github.com/RaoOfPhysics/201702_OpenThesisPlan)
 
 
 #### Why do researchers not adopt open science practices?
