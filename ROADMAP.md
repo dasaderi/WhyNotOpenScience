@@ -14,13 +14,16 @@ Our overall project has three main aims:
 The first three months are dedicated to 1) Listen, with tentative planning for later months. This will be updated regularly so check back!
 
 ## Timeline and goals
-### Early April
+### Early April 2017
 Decide on the scope of the project
  - Who will we tailor the survey towards? Potentially, we will make it relevant to a research field, rather than all researchers as a start point. Why? Because we need to ask the right questions, and by initially restricting questions to a research field we can design a comprehensive and well-structured survey.
 
 Research previous surveys and make a short report.
+ - Wellcome Trust
+ - Innovations in Scholarly Communication
 
 What questions should the survey answer?
+ - see GOALS
 
 ### Late April
 Refine the topics the survey should cover.
@@ -37,9 +40,24 @@ Create survey questions
 ### Late May
 Refine survey questions.
 
-Program survey.
+Program survey for test version.
 
 ### Early June  
 Mozilla Global Sprint 1st and 2nd June 2017 - survey ready to launch and/or have contributors.
+
+Test version of survey.
+
+### June to July
+Finalise survey.
+
+Program survey.
+
+Launch survey.
+
+### July to October
+Data collection
+
+### October to December
+Survey data analysis
 
 ## Completed goals/milestones
