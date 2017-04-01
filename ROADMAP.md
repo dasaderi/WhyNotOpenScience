@@ -3,10 +3,10 @@ Change over to github projects?
 
 ## Project: Why Not Open Science?
 We are scientists who want to see open science practices incorporated in every researcher's lab workflow.
-Open is the way science should be! Open science roughly means that the entire scientific process, from idea generation to the finished project, should be open. It promotes reproducibility, accelerates progress, and communicates scientific knowledge in a complete and transparent way. These aspects of openness are necessary for scientific advancement, yet to some extent have been hindered by the culture within research, and there aren't so many scientists who are practising open.
-Why not? This is what we aim to answer, with this survey. We will ask scientists why they do and do not practice open science, and what kinds of obstacles are holding them back.
+Open is the way science should be! Open science roughly means that the entire scientific process, from idea generation to the finished project, should be open and accessible to everyone. Although being open has many advantages for the research and for the researchers -- it increases reproducibility, accelerates progress, fosters collaboration, and broadens the impact, academics have yet to fully embrace such practices. 
+We want to learn about reschears' current level of engagement with open science practices and learn about the main obstacles that are preventing researchers from fully embracing open.
 
-Our overall project has three main aims:
+Our project will develop around three phases:
 1) Listen
 2) Develop
 3) Educate & advocate
