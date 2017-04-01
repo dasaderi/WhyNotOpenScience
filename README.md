@@ -15,11 +15,11 @@ Openness promotes reproducibility, accelerates progress, and communicates scient
 
 Despite the growing evidence that open-research practices benefit discovery and individual careers, many academics hesitate to fully embrace open science in their research routines. Why? Is it the fear of being “scooped”? Is it the lack of peer pressure and institutional rewards? Or, is it a lack of time and knowledge about open-science practices and how to adopt and adapt them to their own work? 
 
-Based on our experience as researchers and open-science advocates, we believe that the main restrictions are a lack of time, the fear that open science will entail thankless extra effort, and a fundamental lack of knowledge about open science tools.
+Survey data collected between 2015-2016 as part of the Innovation in Scholarly Communication project (https://101innovations.wordpress.com/) revealed that 80.9% of the surveyed researchers support the goal of open science, and 85.9% support the goal of open access movements. Given this results and based on our experience as researchers and open-science advocates, we believe that the main obstacles are not ideological but rather practical: lack of time, the fear that open science will entail thankless extra effort, and a fundamental lack of knowledge about open science tools.
 
 #### Our solution
 
-* Listen: We believe that scientific inquiry should avoid erroneous preconceptions or assumptions about a problem. Therefore our first step will be to develop a survey to explore the underlying reasons for failure to adopt open-science practices in academia. Initially we will test the survey in our home institutions, but our goal is to distribute the survey to other academic institutions across the globe.
+* Listen: We believe that scientific inquiry should avoid erroneous preconceptions or assumptions about a problem. Therefore our first step will be to develop a survey to explore in depth the underlying reasons for failure to adopt open science (OS) practices in academia. Initially we will test the survey in our home institutions, but our goal is to distribute the survey to other academic institutions across the globe.
 
      The survey will seek to:
              * Understand researchers’ knowledge of and engagement with OS practices; 
