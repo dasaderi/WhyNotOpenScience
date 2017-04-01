@@ -15,7 +15,7 @@ Openness promotes reproducibility, accelerates progress, and communicates scient
 
 Despite the growing evidence that open-research practices benefit discovery and individual careers, many academics hesitate to fully embrace open science in their research routines. Why? Is it the fear of being “scooped”? Is it the lack of peer pressure and institutional rewards? Or, is it a lack of time and knowledge about open-science practices and how to adopt and adapt them to their own work? 
 
-Survey data collected between 2015-2016 as part of the Innovation in Scholarly Communication project (https://101innovations.wordpress.com/) revealed that 80.9% of the surveyed researchers support the goal of open science, and 85.9% support the goal of open access movements. Given these results and based on our experience as researchers and open-science advocates, we believe that barriers are social (lack of peer-pressure) as well as technical (lack of time and knowledge about open science tools).
+Survey data collected between 2015-2016 as part of the Innovation in Scholarly Communication project (https://101innovations.wordpress.com/) revealed that 80.9% of the surveyed researchers support the goals of open science, and 85.9% support the goals of open access movements. Given these results and based on our experience as researchers and open-science advocates, we believe that barriers are social (lack of peer-pressure) as well as technical (lack of time and knowledge about open science tools).
 
 #### Our solution
 
