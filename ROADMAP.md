@@ -13,7 +13,7 @@ Our project will develop around three phases:
 
 The first three months are dedicated to 1) Listen, with tentative planning for later months. This will be updated regularly so check back!
 
-## Timeline and goals
+## Timeline
 ### Early April 2017
 Decide on the scope of the project
  - Who will we tailor the survey towards? Potentially, we will make it relevant to a research field, rather than all researchers as a start point. Why? Because we need to ask the right questions, and by initially restricting questions to a research field we can design a comprehensive and well-structured survey.
