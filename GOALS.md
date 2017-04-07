@@ -2,7 +2,11 @@
 
 Below are broad goals of the project with more specific aims under each heading.
 
-#### What do researchers (initially students and postdocs?) know about open science?
+General: Measure researcher's current level of engagement with OS practices
+
+General: Measure obstacles to adoption of OS practices - break down in different OS topics (open data, open source, open access publications, etc.)
+
+#### What do researchers (initially students and postdocs?) know about open science? Consider age, cultural background, language.
 
 #### What facilities/programs/software/tools do researchers know about to help them practice open science?
 
@@ -38,6 +42,13 @@ Below are broad goals of the project with more specific aims under each heading.
 #### What are the obstacles faced in adopting open science practices?
 
 #### What would researchers like to encourage them to engage in open science?
+
+#### What are we measuring?
+ - attiudes
+ - perceptions of knowledge
+ - behaviour
+ - skills
+
 
 
 ##### Existing material:
