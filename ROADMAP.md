@@ -1,6 +1,3 @@
-### ROADMAP
-Change over to github projects?
-
 ## Project: Why Not Open Science?
 We are scientists who want to see open science practices incorporated in every researcher's lab workflow.
 Open is the way science should be! Open science roughly means that the entire scientific process, from idea generation to the finished project, should be open and accessible to everyone. Although being open has many advantages for the research and for the researchers -- it increases reproducibility, accelerates progress, fosters collaboration, and broadens the impact, academics have yet to fully embrace such practices. 
