@@ -3,7 +3,7 @@
 #### What is Open Science? 
 Open is the way science should be! Just think about it: If you are a scientist you should care about generating knowledge that can contribute to the common goal of advancing our understanding of the world. Being open and transparent about your experimental methods, your data, and your results makes your work more likely to be shared, useful, and, most importantly reproducible!
 
-If you are not a scientist you should know that most research is funded through tax payer money and private donations. Anyone, including you should be able to read about the most recent scientific discoveries and benefit from it without paying impossible fees or have to spend hours trying to dig out of the web some shared piece of data that might not even exist. 
+If you are not a scientist you should know that most research is funded through tax payer money and private donations. Anyone, including you should be able to read about the most recent scientific discoveries and benefit from it without paying impossible fees or having to spend hours trying to dig out of the web some shared piece of data that might not even exist. 
 
 Learn more about open science: 
 https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition
