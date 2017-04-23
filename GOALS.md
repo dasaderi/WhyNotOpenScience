@@ -66,7 +66,6 @@ General: Measure obstacles to adoption of OS practices - break down in different
 - https://www.knaw.nl/en/news/news/academy-presents-opening-the-book-on-open-access-2013-what-researchers-think?set_language=en
 
 #### Relevant questions from the WellcomeTrust survey
-##### Descriptives
 What kind of researcher are you?
 
 How many years have you been working in research?
