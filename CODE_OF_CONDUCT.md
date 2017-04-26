@@ -11,6 +11,7 @@ We welcome and encourage participation by everyone. It doesn’t matter how you 
 
 
 **Interaction Style**
+
 This is a more general section about how we treat each other. Each aspect is an important part of the community we’re building.
 
  - Be respectful. We may not always agree, but disagreement is no excuse for poor manners. We will all experience some frustration now and then, but we don’t allow that frustration to turn into a personal attack. A community where people feel uncomfortable or threatened is not a productive one.
