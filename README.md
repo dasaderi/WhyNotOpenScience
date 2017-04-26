@@ -1,4 +1,4 @@
-## Welcome to *Why Not Open Scence?*
+## Welcome to *Why Not Open Science?*
 
 ### What is Open Science? 
 Open is the way science should be! Just think about it: If you are a scientist you should care about generating knowledge that can contribute to the common goal of advancing our understanding of the world. Being open and transparent about your experimental methods, your data, and your results makes your work more likely to be shared, useful, and, most importantly reproducible!
