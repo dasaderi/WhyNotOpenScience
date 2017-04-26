@@ -2,16 +2,13 @@
 
 First off, thanks for taking the time to contribute!!!
 
-Set of guidlines ...
+Set of guidelines ...
 
 What should I do before I get started?
 - Read the README.md
-- Read the CodeOfContact.md
+- Read the CodeOfConduct.md
 
-How 
-
-
-
+How to contribute:
 
 1. Make an issue to report on minor... issues.
 2. Fork the repository.
