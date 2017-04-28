@@ -13,10 +13,14 @@ General: Measure researcher's current level of engagement with OS practices
 General: Measure obstacles to adoption of OS practices - break down in different OS topics (open data, open source, open access publications, etc.)
 
 #### What do researchers (initially students and postdocs?) know about open science? Consider age, cultural background, language.
-
+ - different software/program for working open
+ - what does being open mean to you? what is open science to you?
+ 
 #### What facilities/programs/software/tools do researchers know about to help them practice open science?
+- different software/programs -> see 101 Innovations survey
 
 #### Do researchers practice open science?
+Maybe a list, such as: _yes I do this_, _no I don't do this_, _I have not thought about this_, _this does not apply to me_
 - Open discussion of research ideas
 - Open discussion of methodology
 - Collaboration on methodology
@@ -35,6 +39,8 @@ General: Measure obstacles to adoption of OS practices - break down in different
 - Science communication
 - online thesis writing (see Achintya Rao: https://github.com/RaoOfPhysics/201702_OpenThesisPlan)
 
+#### Why do researchers adopt open science practices?
+Free text question? Or think of possibilties, adapted from WT, and a free-text section
 
 #### Why do researchers not adopt open science practices?
 - Fear of being scooped?
@@ -45,9 +51,10 @@ General: Measure obstacles to adoption of OS practices - break down in different
 - Lack of knowledge about how to engage in open science?
 - Lack of knowledge about how to put open science in practice in a practical way (i.e. which tools to use)?
 
-#### What are the obstacles faced in adopting open science practices?
+Free-text section.
 
 #### What would researchers like to encourage them to engage in open science?
+See WT survey for different incentives, also think of own.
 
 #### What are we measuring?
  - attiudes
