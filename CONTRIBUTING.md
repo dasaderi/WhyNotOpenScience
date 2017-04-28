@@ -1,6 +1,6 @@
 ### Contributing to Why Not Open Science?
 
-First off, thanks for taking the time to contribute! We are really excited to welcome contributors to this project. We really value the time you take to contribute to the project.
+First off, thanks for taking the time to contribute! We are really excited to welcome contributors to this project. We really value the time you take to work on the project.
 
 What is this project? We want to know why, despite researchers knowing that practising open science has positive benefits for themselves, research, and society as a whole, the uptake of encorporating open science practices into daily work has been slow. To find out, we are designing a survey to ask researchers: what do you do to make your work more open? Why do you do it? What don't you do? And why don't you do it?
 
