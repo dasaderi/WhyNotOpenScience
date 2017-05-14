@@ -5,9 +5,11 @@ Open is the way science should be! Just think about it: If you are a scientist y
 
 If you are not a scientist you should know that most research is funded through tax payer money and private donations. Anyone, including you, should be able to read about the most recent scientific discoveries and benefit from it without paying impossible fees or having to spend hours trying to dig out of the web some shared piece of data that might not even exist. 
 
-Learn more about open science: 
-https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition and 
-https://en.wikipedia.org/wiki/Open_science
+Learn more about open science:   
+https://en.wikipedia.org/wiki/Open_science  
+https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition  
+http://openscience.org/what-exactly-is-open-science/
+
 
 ### So, what's the problem?
 
