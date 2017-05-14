@@ -29,13 +29,14 @@ Survey data collected between 2015-2016 as part of the Innovation in Scholarly C
 * *Educate and advocate*: With the development of the materials, we will run workshops on engagement with open science practices and make the workshop materials publicly available, so they can be used by anyone with an interest in open science.
 
 ### Who are we, anyway?
-About Daniela: I am a Ph.D. candidate in the Neuroscience Graduate Program at the Oregon Health & Science University (OHSU). I am passionate about research and making science output available to everyone to advance knowledge and improve transparency. 
+About __Daniela__: I am a Ph.D. candidate in the Neuroscience Graduate Program at the Oregon Health & Science University (OHSU). I am passionate about research and making science output available to everyone to advance knowledge and improve transparency. 
+<ul>
+<li>GitHub: dasaderi</li>
+<li>Twitter: @Neurosarda</li>
+<li>email: daniela.saderi@gmail.com</li>
+</ul>
 
-GitHub: dasaderi
-Twitter: @Neurosarda
-email: daniela.saderi@gmail.com
-
-About Amie: I am a Ph.D. candidate at the Max Planck Institute for Psycholinguistics, based in Nijmegen, The Netherlands. I'm the Open Access Ambassador for my institute, and working on my own personal mission to advocate for open science in its entirety. 
+About __Amie__: I am a Ph.D. candidate at the Max Planck Institute for Psycholinguistics, based in Nijmegen, The Netherlands. I'm the Open Access Ambassador for my institute, and working on my own personal mission to advocate for open science in its entirety. 
 
 
 
