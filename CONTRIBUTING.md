@@ -30,7 +30,7 @@ We (Amie and Daniela) are not survey experts so we turned to our network and we 
 
 * __Be honest and clear__ about the intentios, how long the survey takes, and what will happen with the data.
  
-* __Have a progress bar__
+* __Have a progress bar__.
 
 * __Use forking strategies__ to skip questions that don't apply.
 
