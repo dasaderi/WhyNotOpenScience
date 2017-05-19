@@ -10,7 +10,7 @@ We are at Stage 1 of your mission, *Listen*. We want to assess researchers' atti
 
 ### The survey
 
-We (Amie and Daniela) are not survey experts so we turned to our network (shout out for awesome Mozilla!) and we got in contact with Abdoul and Paul who helped us figure out some important points to consider when designing a survey. 
+We (Amie and Daniela) are not survey experts so we turned to our network and we got in contact with Abdoul Caulibaly at awesome Mozilla, and Bianca Kramer and Jeroen Bosman from 101 Innovations in Scholarly Communication, Librarians Utrecht University. They helped us figure out the following important points to consider when designing a survey. Thank you guys!
 
 * __Be neutral__ in the language and throughout the survey. A general good rule of thumb is that nothing should suggest that we prefer one type of answer rather than other. Doing so will lead the respondent toward answering in the direction he/she considers is good for us. This is a tough one for us as we are obviously biased as open science advocates.
 
@@ -18,7 +18,26 @@ We (Amie and Daniela) are not survey experts so we turned to our network (shout 
 
 * __Keep the survey short and easy__. People are very busy and we need to think about the trade-off between "nice to know" *versus* "must know" based on what we want to obtain from the survey.
 
-We tryied our best to address these points. When you review our pilot survey, pelase keep in mind these points and tell us where and how we can do better. Thansks!
+* __Make survey in different languages__ or at least consider translation equivalents and cultural differences when designing the questions.
+ 
+* __Get ethical approvals__ to survey people and use the results.
+
+* __Be visual__ as much as possible with your survey.
+
+* __Make it mobile-friendly__.
+
+* __Tweet__it out when it's ready.
+
+* __Be honest and clear__ about the intentios, how long the survey takes, and what will happen with the data.
+ 
+* __Have a progress bar__
+
+* __Use forking strategies__ to skip questions that don't apply.
+
+* __Give feedback__.
+
+
+We are trying our best to address these points in our pilot survey. When you review it, pelase keep in mind these points and tell us where and how we can do better. Thansks!
 
 ### Contributing guidelines
 
