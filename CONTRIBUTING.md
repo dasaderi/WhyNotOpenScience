@@ -26,7 +26,7 @@ We (Amie and Daniela) are not survey experts so we turned to our network and we 
 
 * __Make it mobile-friendly__.
 
-* __Tweet__it out when it's ready.
+* __Tweet__ it out when it's ready.
 
 * __Be honest and clear__ about the intentios, how long the survey takes, and what will happen with the data.
  
