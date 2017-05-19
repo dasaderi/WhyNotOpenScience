@@ -14,7 +14,7 @@ We (Amie and Daniela) are not survey experts so we turned to our network (shout 
 
 * __Keep the survey short and easy__. People are very busy and we need to think about the trade-off between "nice to know" *versus* "must know" based on what we want to obtain from the survey.
 
-We tryied our best to address these points. When you review our pilot survey, pelase keep in mind these points and tell where and how we can do better. Thansks!
+We tryied our best to address these points. When you review our pilot survey, pelase keep in mind these points and tell us where and how we can do better. Thansks!
 
 #### Contributing guidelines
 
