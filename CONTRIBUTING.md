@@ -1,8 +1,12 @@
-### Contributing to Why Not Open Science?
+## Contributing to *Why Not Open Science?*
 
 First off, thanks for taking the time to contribute! We are excited to welcome contributors and we really value the time you take to work with us on this project.
 
+#### What are we working on?
+
 We want to assess researchers' attitudes towards open science and learn about the main barriers to fully adopt open science practices in their daily routines. To do that we are designing a survey that we are hoping to distribute to scholars around the globe. 
+
+[This](https://github.com/dasaderi/WhyNotOpenScience/blob/master/ROADMAP.md) is our project roadmap, and you can find issues under the issues tab at the top, or [here](https://github.com/dasaderi/WhyNotOpenScience/issues). Our milestones and aims are listed as issues so you can read through them or search for the labels. If you are new to contributing, we have some [good first bugs](https://github.com/dasaderi/WhyNotOpenScience/labels/good%20first%20bugs) you can check out.
 
 ### The survey
 
@@ -19,15 +23,11 @@ We tryied our best to address these points. When you review our pilot survey, pe
 #### Contributing guidelines
 
 Before getting started with contributing, please:
-* Read the README.md
-* Read the CodeOfConduct.md
+* [Read the README.md](https://github.com/dasaderi/WhyNotOpenScience/blob/master/README.md)
+* [Read the CodeOfConduct.md](https://github.com/dasaderi/WhyNotOpenScience/blob/master/CODE_OF_CONDUCT.md)
 
-Please report any unacceptable behaviour to whynotopenscience@gmail.com.
+Please report any unacceptable behavior to whynotopenscience@gmail.com.
 
-#### What are we working on?
-
-The overall project is to work on designing, creating, and carrying out the Why Not Open Science? survey.
-[This](https://github.com/dasaderi/WhyNotOpenScience/blob/master/ROADMAP.md) is our general project roadmap, and you can find issues under the issues tab at the top, or [here](https://github.com/dasaderi/WhyNotOpenScience/issues). Our milestones and aims are listed as issues so you can read through them or search for the labels. If you are new to contributing, we have some [good first bugs](https://github.com/dasaderi/WhyNotOpenScience/labels/good%20first%20bugs).
 
 #### How to contribute?
 
