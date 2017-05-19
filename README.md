@@ -34,7 +34,7 @@ Survey data collected between 2015-2016 as part of the Innovation in Scholarly C
 About __Daniela__: I am a Ph.D. candidate in the Neuroscience Graduate Program at the Oregon Health & Science University (OHSU). I am passionate about research and making science output available to everyone to advance knowledge and improve transparency.  
 
 GitHub: dasaderi  
-Twitter: @Neurosarda  
+Twitter: [@Neurosarda](https://twitter.com/Neurosarda)  
 
 About __Amie__: I am a Ph.D. candidate at the Max Planck Institute for Psycholinguistics, based in Nijmegen, The Netherlands. I'm the Open Access Ambassador for my institute, and working on my own personal mission to advocate for open science in its entirety. 
 
