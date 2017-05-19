@@ -40,6 +40,6 @@ Once you have an issue you want to contribute to, then please:
 
 #### How to report bugs?
 
-There are bound to be bugs in any project, and so we would love it if you could be on the lookout for any bugs, and raise an issue if you find one. Bugs can be anything - they could be with our conceptual design, with how we set something out, spelling mistakes or formatting errors, any issues with design, or anything else we haven't yet thought of.
+There are bound to be bugs in any project, and so we would love it if you could be on the lookout for any bugs, and raise an issue if you find one. Bugs can be anything - they could be with our conceptual design, with how we set something out, spelling mistakes or formatting errors, or anything else we haven't yet thought of.
 
-If you notice a bug, then raise an issue and label it with the label 'bug'. Then anyone in the contributing community can get right on it, and everything gets fixed faster.
+If you notice a bug, then raise an issue and label it with the label 'bug'. Then anyone in the contributing community can get right on it, and everything gets fixed faster. THANK YOU!
