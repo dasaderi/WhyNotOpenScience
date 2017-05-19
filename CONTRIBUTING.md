@@ -43,7 +43,7 @@ We are trying our best to address these points in our pilot survey. When you rev
 
 Before getting started with contributing, please:
 * Read the [README.md](https://github.com/dasaderi/WhyNotOpenScience/blob/master/README.md)
-* Read the [CodeOfConduct.md](https://github.com/dasaderi/WhyNotOpenScience/blob/master/CODE_OF_CONDUCT.md)
+* Read the [CODE_OF_CONDUCT.md](https://github.com/dasaderi/WhyNotOpenScience/blob/master/CODE_OF_CONDUCT.md)
 
 Please report any unacceptable behavior to whynotopenscience@gmail.com.
 
