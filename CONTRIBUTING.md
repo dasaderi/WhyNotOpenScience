@@ -2,7 +2,7 @@
 
 First off, thanks for taking the time to contribute! We are excited to welcome contributors and we really value the time you take to work with us on this project.
 
-#### What are we working on?
+### What are we working on?
 
 We want to assess researchers' attitudes towards open science and learn about the main barriers to fully adopt open science practices in their daily routines. To do that we are designing a survey that we are hoping to distribute to scholars around the globe. 
 
@@ -20,7 +20,7 @@ We (Amie and Daniela) are not survey experts so we turned to our network (shout 
 
 We tryied our best to address these points. When you review our pilot survey, pelase keep in mind these points and tell us where and how we can do better. Thansks!
 
-#### Contributing guidelines
+### Contributing guidelines
 
 Before getting started with contributing, please:
 * [Read the README.md](https://github.com/dasaderi/WhyNotOpenScience/blob/master/README.md)
