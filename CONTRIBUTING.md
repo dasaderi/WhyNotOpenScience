@@ -12,15 +12,15 @@ We (Amie and Daniela) are not survey experts so we turned to our network (shout 
 
 * __Code questions as much as possible__. This means that when we can we should try to present option answers for each question to ease the data analysis. However, some of the questions should be open, particularly the questions where we are trying to get an opinion. For these questions we may influence answer by providing a list of answers.
 
-* __Keep the survey short and easy__. People are very busy and we need to think about the rade-off between "nice to know" and "must know" based on what we want to obtain from the survey.
+* __Keep the survey short and easy__. People are very busy and we need to think about the trade-off between "nice to know" *versus* "must know" based on what we want to obtain from the survey.
 
 We tryied our best to address these points. When you review our pilot survey, pelase keep in mind these points and tell where and how we can do better. Thansks!
 
 #### Contributing guidelines
 
 Before getting started with contributing, please:
-- Read the README.md
-- Read the CodeOfConduct.md
+* Read the README.md
+* Read the CodeOfConduct.md
 
 Please report any unacceptable behaviour to whynotopenscience@gmail.com.
 
