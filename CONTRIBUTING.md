@@ -1,8 +1,20 @@
 ### Contributing to Why Not Open Science?
 
-First off, thanks for taking the time to contribute! We are really excited to welcome contributors to this project. We really value the time you take to work on the project.
+First off, thanks for taking the time to contribute! We are excited to welcome contributors and we really value the time you take to work with us on this project.
 
-What is this project? We want to know why, despite researchers knowing that practising open science has positive benefits for themselves, research, and society as a whole, the uptake of encorporating open science practices into daily work has been slow. To find out, we are designing a survey to ask researchers: what do you do to make your work more open? Why do you do it? What don't you do? And why don't you do it?
+We want to assess researchers' attitudes towards open science and learn about the main barriers to fully adopt open science practices in their daily routines. To do that we are designing a survey that we are hoping to distribute to scholars around the globe. 
+
+### The survey
+
+We (Amie and Daniela) are not survey experts so we turned to our network (shout out for awesome Mozilla!) and we got in contact with Abdoul and Paul who helped us figure out some important points to consider when designing a survey. 
+
+* __Be neutral__ in the language and throughout the survey. A general good rule of thumb is that nothing should suggest that we prefer one type of answer rather than other. Doing so will lead the respondent toward answering in the direction he/she considers is good for us. This is a tough one for us as we are obviously biased as open science advocates.
+
+* __Code questions as much as possible__. This means that when we can we should try to present option answers for each question to ease the data analysis. However, some of the questions should be open, particularly the questions where we are trying to get an opinion. For these questions we may influence answer by providing a list of answers.
+
+* __Keep the survey short and easy__. People are very busy and we need to think about the rade-off between "nice to know" and "must know" based on what we want to obtain from the survey.
+
+We tryied our best to address these points. When you review our pilot survey, pelase keep in mind these points and tell where and how we can do better. Thansks!
 
 #### Contributing guidelines
 
@@ -10,12 +22,12 @@ Before getting started with contributing, please:
 - Read the README.md
 - Read the CodeOfConduct.md
 
-Please report any unacceptable behaviour to Amie Fairs (amiefairs [at] gmail [dot] com) or Daniela Saderi.
+Please report any unacceptable behaviour to whynotopenscience@gmail.com.
 
 #### What are we working on?
 
-The overall project is to work on designing, creating, and carrying out a survey.
-[Here](https://github.com/dasaderi/WhyNotOpenScience/blob/master/ROADMAP.md) is our general project roadmap, and you can find issues under the issues tab at the top, or [here](https://github.com/dasaderi/WhyNotOpenScience/issues). Our milestones and aims are listed as issues so you can read through them or search the labels. If you are new to contributing, we have some [good first bugs](https://github.com/dasaderi/WhyNotOpenScience/labels/good%20first%20bugs).
+The overall project is to work on designing, creating, and carrying out the Why Not Open Science? survey.
+[This](https://github.com/dasaderi/WhyNotOpenScience/blob/master/ROADMAP.md) is our general project roadmap, and you can find issues under the issues tab at the top, or [here](https://github.com/dasaderi/WhyNotOpenScience/issues). Our milestones and aims are listed as issues so you can read through them or search for the labels. If you are new to contributing, we have some [good first bugs](https://github.com/dasaderi/WhyNotOpenScience/labels/good%20first%20bugs).
 
 #### How to contribute?
 
