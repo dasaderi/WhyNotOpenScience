@@ -1,65 +1,59 @@
 ## Project: Why Not Open Science?
+(This document is updated regularly so check back!)
+
 We are scientists who want to see open science practices incorporated in every researcher's lab workflow.
-Open is the way science should be! Open science roughly means that the entire scientific process, from idea generation to the finished project, should be open and accessible to everyone. Although being open has many advantages for the research and for the researchers -- it increases reproducibility, accelerates progress, fosters collaboration, and broadens the impact, academics have yet to fully embrace such practices. 
-We want to learn about reschears' current level of engagement with open science practices and learn about the main obstacles that are preventing researchers from fully embracing open.
+Open science roughly means that the entire scientific process, from idea generation to the finished project, should be open and accessible to everyone. Although being open has many advantages for the research and for the researchers – it increases reproducibility, accelerates progress, fosters collaboration, and broadens the impact, academics have yet to fully embrace such practices. 
 
-Our project will develop around three phases:
-1) Listen
-2) Develop
-3) Educate & advocate
+Our project will develop around three stages:
+1) *Listen*
+2) *Develop*
+3) *Educate & advocate*
 
-The first three months are dedicated to 1) Listen, with tentative planning for later months. This will be updated regularly so check back!
+The first three months are dedicated to Stage 1) *Listen*. 
 
 ## Timeline
-### Early April 2017
-Decide on the scope of the project
- - Who will we tailor the survey towards? Potentially, we will make it relevant to a research field, rather than all researchers as a start point. Why? Because we need to ask the right questions, and by initially restricting questions to a research field we can design a comprehensive and well-structured survey.
 
-Research previous surveys and make a short report.
- - Wellcome Trust
- - Innovations in Scholarly Communication
+### April-May 2017
+[ ] Decide on the scope of the project. 
 
-What questions should the survey answer?
- - see GOALS
-
-### Late April
-Refine the topics the survey should cover.
-
-Discuss the structure and design of the survey with experienced psychologists/survey implementers.
-
-
-### Early May
-Create survey questions
- - Create a small test version of the survey.
+* What do we want the survey's results to tell us that we don't alrady know?
+* Towards who will we tailor the survey? 
+* What do we need to focus in order to design a survey that gets the right answers?
+  Thank to the suggestion of Abdoul from the awesome Mozilla community we now know that we want to:
  
- Refine survey questions.
+ * __Be neutral__ in the language and throughout the survey. A general good rule of thumb is that nothing should suggest that we prefer one type of answer rather than other. Doing so will lead the respondent toward answering in the direction he/she considers is good for us. This is a tough one for us as we are obviously biased as open science advocates.
+
+ * __Code questions as much as possible__. This means that when we can we should try to present option answers for each question to ease the data analysis. However, some of the questions should be open, particularly the questions where we are trying to get an opinion. For these questions we may influence answer by providing a list of answers.
+
+ * __Keep the survey short and easy__. People are very busy and we need to think about the trade-off between "nice to know" *versus* "must know" based on what we want to obtain from the survey.
+
+[x] Research previous surveys 
+ - [Wellcome Trust](https://figshare.com/articles/Survey_of_Wellcome_researchers_and_their_attitudes_to_open_research/4055448)
+ - [Innovations in Scholarly Communication](https://101innovations.wordpress.com/)
  
-### Late May
-Refine survey questions.
+[ ] Make a short report of what's arleady known.
 
-Program survey for test version.
+[x] Create a pilot survey
+ - Decide on the software. Google docs will be a good start, but it does not have a lot of cool features. LimeSurvey? SurveMonkey?
+ - [Pilot survey]()
 
-### Early June  
-Mozilla Global Sprint 1st and 2nd June 2017 - survey ready to launch and/or have contributors.
+### June 1,2, 2017
+[ ] Launch the project at the [Global Sprint](https://mozilla.github.io/global-sprint/)!!! Get collaborators and people who are willing to test our pilot survey and give us feedback.
 
-Test version of survey.
+### June-July
+[ ] Get ethical approval from institutions to survey researchers (ask Robin!)
+[ ] Get the survey ready to be distributed to researchers. 
+[ ] Launch! Communication at full power to disseminate the survey through our network.
 
-### June to July
-Finalise survey.
 
-Program survey.
-
-Launch survey.
-
-### July to October
+### July-October 2017
 Data collection
 
-### October to December
-Survey data analysis
+### November-December
+Data analysis
 
 ### January 2018 onwards
-Begin with part 2) Develop!
-
+Begin with part 2) *Develop!*
 
 
 ## Completed goals/milestones
