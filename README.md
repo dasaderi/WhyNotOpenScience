@@ -30,6 +30,15 @@ Survey data collected between 2015-2016 as part of the Innovation in Scholarly C
 
 * *Educate and advocate*: With the development of the materials, we will run workshops on engagement with open science practices and make the workshop materials publicly available, so they can be used by anyone with an interest in open science.
 
+### Want to contribute?
+
+Go to our [contributing](https://github.com/dasaderi/WhyNotOpenScience/blob/master/CONTRIBUTING.md) file to find out about contributing!
+
+### #MozSprint 2017
+
+During the Sprint we will be around in two different locations - Tilburg, Netherlands and Portland, Oregon. If you are around, come drop by! If you are working globally, then we'll have a gitter chat going, an etherpad for chatting and notes, and we'll be available through skype. Check back for more info and the links!
+
+
 ### Who are we, anyway?
 About __Daniela__: I am a Ph.D. candidate in the Neuroscience Graduate Program at the Oregon Health & Science University (OHSU). I am passionate about research and making science output available to everyone to advance knowledge and improve transparency.  
 
