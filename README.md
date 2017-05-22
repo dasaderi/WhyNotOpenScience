@@ -32,7 +32,7 @@ Survey data collected between 2015-2016 as part of the Innovation in Scholarly C
 
 ### Want to contribute?
 
-Go to our [contributing](https://github.com/dasaderi/WhyNotOpenScience/blob/master/CONTRIBUTING.md) file to find out about contributing!
+Go to our [CONTRIBUTING.md](https://github.com/dasaderi/WhyNotOpenScience/blob/master/CONTRIBUTING.md) file to find out how!
 
 ### #MozSprint 2017
 
