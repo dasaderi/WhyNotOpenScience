@@ -2,6 +2,14 @@
 
 First off, thanks for taking the time to contribute! We are excited to welcome contributors and we really value the time you take to work with us on this project.
 
+### Contributing guidelines
+
+Before getting started with contributing, please:
+* Read the [README.md](https://github.com/dasaderi/WhyNotOpenScience/blob/master/README.md)
+* Read the [CODE_OF_CONDUCT.md](https://github.com/dasaderi/WhyNotOpenScience/blob/master/CODE_OF_CONDUCT.md)
+
+Please report any unacceptable behavior to whynotopenscience@gmail.com.
+
 ### What are we working on right now?
 
 We are at Stage 1 of your mission, *Listen*. We want to assess researchers' attitudes towards open science and learn about the main barriers to fully adopt open science practices in their daily routines. To do that we are designing a survey that we are hoping to distribute to scholars around the globe. 
