@@ -49,7 +49,7 @@ Twitter: [@Neurosarda](https://twitter.com/Neurosarda)
 
 About __Amie__: I am a Ph.D. candidate at the Max Planck Institute for Psycholinguistics, based in Nijmegen, The Netherlands. I'm the Open Access Ambassador for my institute, and working on my own personal mission to advocate for open science in its entirety. 
 
-GitHub: [amiefairs](https://github.com/amiefairs)
+GitHub: [amiefairs](https://github.com/amiefairs)  
 Twitter: [@amiefairs](https://twitter.com/amiefairs)
 
 Want to contact us? Tweet us or email whynotopenscience@gmail.com
