@@ -45,7 +45,7 @@ We (Amie and Daniela) are not survey experts so we turned to our network and we 
 * __Give feedback__.
 
 
-We are trying our best to address these points in our pilot survey. When you review it, pelase keep in mind these points and tell us where and how we can do better. Thansks!
+We are trying our best to address these points in our pilot survey. When you review it, pelase keep in mind these points and tell us where and how we can do better. Thanks!
 
 ### Contributing guidelines
 
