@@ -1,6 +1,6 @@
 ## Welcome to *Why Not Open Science?*
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/WhyNotOpenScience/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/WhyNotOpenScience/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) [![Etherpad](https://img.shields.io/npm/v/gitter-sidecar.svg)](https://public.etherpad-mozilla.org/p/whynotopenscience)
 
 Here is our [Gitter](https://gitter.im/WhyNotOpenScience/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) chat room and our [etherpad](https://public.etherpad-mozilla.org/p/whynotopenscience)! 
 
