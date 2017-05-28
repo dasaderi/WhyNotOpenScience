@@ -42,7 +42,7 @@ Go to our [CONTRIBUTING.md](https://github.com/dasaderi/WhyNotOpenScience/blob/m
 
 ### #MozSprint 2017
 
-During the Sprint we will be around in two different locations - Tilburg, Netherlands (Amie) and Portland, Oregon (Daniela). If you are around, come drop by! If you are working globally, join our [gitter chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/WhyNotOpenScience/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) and the project's [etherpad](https://public.etherpad-mozilla.org/p/whynotopenscience) for chatting and notes.
+During the Sprint we will be around in two different locations - Tilburg, Netherlands (Amie) and Portland, Oregon (Daniela). If you are around, come drop by! If you are working globally, join our [gitter chat](https://gitter.im/WhyNotOpenScience/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) and the project's [etherpad](https://public.etherpad-mozilla.org/p/whynotopenscience) for chatting and notes.
 
 
 ### Who are we, anyway?
