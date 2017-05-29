@@ -11,11 +11,12 @@ Open is the way science should be! Just think about it: If you are a scientist y
 
 If you are not a scientist you should know that most research is funded through tax payer money and private donations. Anyone, including you, should be able to read about the most recent scientific discoveries and benefit from it without paying impossible fees or having to spend hours trying to dig out of the web some shared piece of data that might not even exist. 
 
-Learn more about open science:   
-https://en.wikipedia.org/wiki/Open_science  
-https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition  
-http://openscience.org/what-exactly-is-open-science/
+There is not a unique and static definition of Open Science, and, arguibly, there shouldn't be as Open Science is an evolving and inclusive movement. With this survey we will not cover all aspects of Open Science, but we will try to focus on open access, open data and open source as means to making scientific ouput transparent and reproducible, and foster collaboration between scientists. We think these, at least at the moment, are the most relevant issues to academics. If you disagree with this statement or think we should be more inclusive with our definition and therefore our survey, please let us know.
 
+For the purpose of the survey we embrace the definition of Open Science provided by Foster:
+*“Open Science is the practice of science in such a way that others can collaborate and contribute, where research data, lab notes and other research processes are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods.”*  
+
+Please check our [Links](https://github.com/dasaderi/WhyNotOpenScience/tree/master/Links) folder for additional links/material to learn more about Open Science and what it encompasses. Please add your own resources.
 
 ### So, what's the problem?
 
