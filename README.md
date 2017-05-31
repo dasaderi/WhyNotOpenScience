@@ -46,7 +46,7 @@ Go to our [CONTRIBUTING.md](https://github.com/dasaderi/WhyNotOpenScience/blob/m
 During the Sprint we will be around in two different locations - Tilburg, Netherlands (Amie) and Portland, Oregon (Daniela). If you are around, come drop by! If you are working globally, join our [gitter chat](https://gitter.im/WhyNotOpenScience/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) and the project's [etherpad](https://public.etherpad-mozilla.org/p/whynotopenscience) for chatting and notes.
 
 ### The pilot survey
-The link to the pilot survey is [here]. Please don't fill in the pilot survey until you have read the [contributing guidelines](https://github.com/dasaderi/WhyNotOpenScience/blob/master/CONTRIBUTING.md) and [code of conduct](https://github.com/dasaderi/WhyNotOpenScience/blob/master/CODE_OF_CONDUCT.md). The contributing file also tells you how to go about filling in the survey - first raise an issue, then fill out the pilot survey and feedback sections, and then comment on your issue to tell us about it!
+The link to the pilot survey is [here]. Please don't fill in the pilot survey until you have read the [contributing guidelines](https://github.com/dasaderi/WhyNotOpenScience/blob/master/CONTRIBUTING.md) and [code of conduct](https://github.com/dasaderi/WhyNotOpenScience/blob/master/CODE_OF_CONDUCT.md). The contributing file also tells you how to go about filling in the survey - first raise an issue, then fill out the pilot survey and feedback sections, and then comment on your issue to provide any additional feedback. Thank you!
 
 
 ### Who are we, anyway?
