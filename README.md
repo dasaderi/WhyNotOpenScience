@@ -11,7 +11,7 @@ Open is the way science should be! Just think about it: If you are a scientist y
 
 If you are not a scientist you should know that most research is funded through tax payer money and private donations. Anyone, including you, should be able to read about the most recent scientific discoveries and benefit from it without paying impossible fees or having to spend hours trying to dig out of the web some shared piece of data that might not even exist. 
 
-There is not a unique and static definition of Open Science – and arguibly there shouldn't be – as Open Science is an evolving and inclusive movement. In our survey we will not cover all aspects of Open Science, but we will try to focus on open access, open data and open source as means to making scientific ouput transparent and reproducible, and foster collaboration between scientists. We think these, at least at the moment, are the most relevant issues to academics. If you disagree with this statement or think we should be more inclusive with our definition and therefore our survey, please let us know.
+There is not a unique and static definition of Open Science – and arguably there shouldn't be – as Open Science is an evolving and inclusive movement. In our survey we will not cover all aspects of Open Science, but we will try to focus on open access, open data and open source as means to making scientific ouput transparent and reproducible, and foster collaboration between scientists. We think these, at least at the moment, are the most relevant issues to academics. If you disagree with this statement or think we should be more inclusive with our definition and therefore our survey, please let us know.
 
 For the purpose of the survey we embrace the definition of Open Science provided by [Foster](https://www.fosteropenscience.eu/taxonomy/term/100):  
 *“Open Science is the practice of science in such a way that others can collaborate and contribute, where research data, lab notes and other research processes are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods.”*  
@@ -26,7 +26,7 @@ Survey data collected between 2015-2016 as part of the Innovation in [Scholarly 
 
 ### Got it! What can we do about it?
 
-* *Listen*: We believe that scientific inquiry should avoid erroneous preconceptions or assumptions about a problem. Therefore our first step will be to develop a survey to explore in depth the underlying reasons for failure to adopt open science practices in academia. Initially we will test the survey in our home institutions, but our goal is to distribute the survey to other academic institutions across the globe.
+* *Listen*: We believe that scientific inquiry should avoid erroneous preconceptions or assumptions about a problem. Therefore our first step will be to develop a survey to explore in depth the underlying reasons for failure to adopt open science practices in academia. 
 
      The survey will seek to:
      * Understand researchers’ knowledge of and engagement with open science practices; 
@@ -44,6 +44,9 @@ Go to our [CONTRIBUTING.md](https://github.com/dasaderi/WhyNotOpenScience/blob/m
 ### #MozSprint 2017
 
 During the Sprint we will be around in two different locations - Tilburg, Netherlands (Amie) and Portland, Oregon (Daniela). If you are around, come drop by! If you are working globally, join our [gitter chat](https://gitter.im/WhyNotOpenScience/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) and the project's [etherpad](https://public.etherpad-mozilla.org/p/whynotopenscience) for chatting and notes.
+
+### The pilot survey
+The link to the pilot survey is [here]. Please don't fill in the pilot survey until you have read the [contributing guidelines](https://github.com/dasaderi/WhyNotOpenScience/blob/master/CONTRIBUTING.md) and [code of conduct](https://github.com/dasaderi/WhyNotOpenScience/blob/master/CODE_OF_CONDUCT.md). The contributing file also tells you how to go about filling in the survey - first raise an issue, then fill out the pilot survey and feedback sections, and then comment on your issue to tell us about it!
 
 
 ### Who are we, anyway?
