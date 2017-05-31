@@ -16,7 +16,7 @@ There is not a unique and static definition of Open Science – and arguably the
 For the purpose of the survey we embrace the definition of Open Science provided by [Foster](https://www.fosteropenscience.eu/taxonomy/term/100):  
 *“Open Science is the practice of science in such a way that others can collaborate and contribute, where research data, lab notes and other research processes are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods.”*  
 
-Please check our [Links](https://github.com/dasaderi/WhyNotOpenScience/tree/master/Links) folder for additional links/material to learn more about Open Science and what it encompasses. Please add your own resources.
+Please check our [Links](https://github.com/dasaderi/WhyNotOpenScience/tree/master/Links) folder for additional links/material to learn more about Open Science and what it encompasses, and feel free to add your own resources.
 
 ### So, what's the problem?
 
