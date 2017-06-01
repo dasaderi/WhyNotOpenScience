@@ -36,7 +36,7 @@ Thank to the suggestion of Abdoul from the awesome Mozilla community we now know
 
 - [x] Create a pilot survey
  * Decide on the software. Google docs will be a good start, but it does not have a lot of cool features. LimeSurvey? SurveMonkey?
- * [Pilot survey]()
+ * [Pilot survey](https://goo.gl/forms/GHoujo8N45w112BG2)
 
 ### June 1,2, 2017
 - [ ] Launch the project at the [Global Sprint](https://mozilla.github.io/global-sprint/)!!! Get collaborators and people who are willing to test our pilot survey and give us feedback.
