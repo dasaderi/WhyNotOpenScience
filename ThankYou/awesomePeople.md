@@ -5,3 +5,10 @@ Taking our inspiration from Bastian, Helge and Phillip at [openSNP](https://gith
 ![alt text](https://media.giphy.com/media/u0bQN6bxXweHe/giphy.gif)
 
 ### People that are awesome
+@Ageotas 
+@chartgerink
+Abdoul @ Mozilla
+Bianca Kramer
+Jeroen Bosman
+Danielle Robinson
+
