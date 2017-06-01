@@ -6,9 +6,16 @@ Taking our inspiration from Bastian, Helge and Phillip at [openSNP](https://gith
 
 ### People that are awesome
 @Ageotas 
-@chartgerink
+
+@chartgerink - Chris Hartgerink
+
 Abdoul @ Mozilla
+
 Bianca Kramer
+
 Jeroen Bosman
+
 Danielle Robinson
+
+@jvallera 
 
