@@ -57,9 +57,9 @@ Once you have a general project idea you want to contribute to, then please:
 3. **Commit changes**. Commit your changes.
 4. **Create a pull request**. Submit a pull request to ask to integrate your changes to the master branch.  
 
-If you want to take the [pilot survey](https://goo.gl/forms/GHoujo8N45w112BG2) and provide us with feedback on it then please:
+If you want to take the pilot survey and provide us with feedback on it then please:
 1. **Raise an issue**. Raise an issue called _Taking pilot survey_.
-2. **Access the survey [here]**. Fill in the survey and feedback sections (if you wish).
+2. **Access the [pilot survey](https://goo.gl/forms/GHoujo8N45w112BG2)**. Fill in the survey and feedback sections (if you wish).
 3. **Comment on your issue** with _Survey done!_
 4. **Comment on your issue with any specific comments/questions or feedback**. Anything you want to tell us will help! By commenting on the issue, we can start discussing.
 
