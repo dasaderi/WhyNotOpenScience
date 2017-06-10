@@ -4,18 +4,23 @@ Taking our inspiration from Bastian, Helge and Phillip at [openSNP](https://gith
 
 ![alt text](https://media.giphy.com/media/u0bQN6bxXweHe/giphy.gif)
 
-### People that are awesome
-@Ageotas 
-
-@chartgerink - Chris Hartgerink
-
-Abdoul @ Mozilla
-
-Bianca Kramer
-
-Jeroen Bosman
-
-Danielle Robinson
-
-@jvallera 
-
+### People that have given awesome feedback on our pilot survey and more!!!
+* _Danielle Robinson_, thank you for being the most awesome Mozilla Open Leaders mentor!  
+* _Abigail Cabunoc Mayes_, thank you for your support and for everything you do to make this the best community to be part of!    
+* _Abdoul Coulibaly_  
+* _Bianca Kramer_  
+* _Jeroen Bosman_  
+* _Chris Hartgerink_ (@chartgerink)  
+* _James Robinson_ (@jpwrobinson)  
+* _Samantha Hindle_ (@SamanthaHindle)  
+* @jvallera 
+* @Ageotas   
+* @sallkhad   
+* @dunebuggie  
+* @npscience  
+* @edovio  
+* @jhk11  
+* @schae234 
+* @ivarthorson
+* @tavitag
+* @pherterich
