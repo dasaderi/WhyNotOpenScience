@@ -10,6 +10,7 @@ Taking our inspiration from Bastian, Helge and Phillip at [openSNP](https://gith
 * _Abdoul Coulibaly_  
 * _Bianca Kramer_  
 * _Jeroen Bosman_  
+* _Robin Champieux
 * _Chris Hartgerink_ (@chartgerink)  
 * _James Robinson_ (@jpwrobinson)  
 * _Samantha Hindle_ (@SamanthaHindle)  
