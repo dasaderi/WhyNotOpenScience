@@ -5,8 +5,8 @@ Taking our inspiration from Bastian, Helge and Phillip at [openSNP](https://gith
 ![alt text](https://media.giphy.com/media/u0bQN6bxXweHe/giphy.gif)
 
 ### People that have given awesome feedback on our pilot survey and more!!!
-* _Danielle Robinson_, thank you for being the most awesome Mozilla Open Leaders mentor!  
-* _Abigail Cabunoc Mayes_, thank you for your support and for everything you do to make this the best community to be part of!    
+* _Danielle Robinson_ (our awesome Mozilla Open Leaders mentor)  
+* _Abigail Cabunoc Mayes_    
 * _Abdoul Coulibaly_  
 * _Bianca Kramer_  
 * _Jeroen Bosman_  
