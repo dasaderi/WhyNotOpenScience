@@ -41,10 +41,6 @@ Survey data collected between 2015-2016 as part of the Innovation in [Scholarly 
 
 Go to our [CONTRIBUTING.md](https://github.com/dasaderi/WhyNotOpenScience/blob/master/CONTRIBUTING.md) file to find out how!
 
-### #MozSprint 2017
-
-During the Sprint we will be around in two different locations - Tilburg, Netherlands (Amie) and Portland, Oregon (Daniela). If you are around, come drop by! If you are working globally, join our [gitter chat](https://gitter.im/WhyNotOpenScience/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) and the project's [etherpad](https://public.etherpad-mozilla.org/p/whynotopenscience) for chatting and notes.
-
 ### The pilot survey
 [Here](https://goo.gl/forms/GHoujo8N45w112BG2) is the link to our pilot survey. Before you jump on it though, please read our [contributing guidelines](https://github.com/dasaderi/WhyNotOpenScience/blob/master/CONTRIBUTING.md) and [code of conduct](https://github.com/dasaderi/WhyNotOpenScience/blob/master/CODE_OF_CONDUCT.md). The contributing will go into details on how to go about filling in the survey - first raise an issue, then fill out the pilot survey and feedback sections, and then comment on your issue to provide any additional feedback. Thank you!
 
