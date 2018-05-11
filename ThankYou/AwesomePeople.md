@@ -25,3 +25,4 @@ Taking our inspiration from Bastian, Helge and Phillip at [openSNP](https://gith
 * @ivarthorson
 * @tavitag
 * @pherterich
+* @Tlazypanda
