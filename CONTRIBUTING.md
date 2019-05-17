@@ -20,7 +20,7 @@ We are at Stage 1 of our mission, *Listen*. We want to assess researchers' attit
 
 We (Amie and Daniela) are not survey experts so we turned to our network and we got in contact with Abdoul Caulibaly at the awesome Mozilla, and Bianca Kramer and Jeroen Bosman from 101 Innovations in Scholarly Communication and librarians at Utrecht University. They helped us figure out the following important points to consider when designing a survey. Thank you guys!
 
-* __Be neutral__ in the language and throughout the survey. A general good rule of thumb is that nothing should suggest that we prefer one type of answer rather than other. Doing so will lead the respondent toward answering in the direction he/she considers is good for us. This is a tough one for us as we are obviously biased as open science advocates.
+* __Be neutral__ in the language and throughout the survey. A general good rule of thumb is that nothing should suggest that we prefer one type of answer rather than other. Doing so will lead the respondent toward answering in the direction they consider is good for us. This is a tough one for us as we are obviously biased as open science advocates.
 
 * __Code questions as much as possible__. This means that when we can we should try to present option answers for each question to ease the data analysis. However, some of the questions should be open, particularly the questions where we are trying to get an opinion. For these questions we may influence responses by providing a list of answers.
 
